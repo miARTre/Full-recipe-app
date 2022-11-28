@@ -1,0 +1,4 @@
+root: C:\Users\mirne\full-recipe-app-yt 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
